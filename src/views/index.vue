@@ -4,7 +4,7 @@
       <el-card :body-style="{ padding: '0px' }" class="chat flex-none">
         <div class="flex w-full h-full">
           <div class="w-16 bg-gray-900">
-
+<img src="">
           </div>
           <div class="w-64 bg-gray-100 flex flex-col border-r">
             <div class="flex h-12 px-3 items-center">
