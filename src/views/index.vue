@@ -131,7 +131,7 @@ export default {
     },
     sendMessage() {
       this.messageAdd({room_id: this.roomId, content: this.messageStr, type: 0})
-    }
+    },
   },
   computed: {
     ...mapGetters(['roomListData', 'roomAddData', 'messageListData', "messageAddData"])
